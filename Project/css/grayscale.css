@@ -137,7 +137,7 @@ a:focus {
     height: auto;
     padding: 100px 0;
     text-align: center;
-    color: #fff;
+    color: #000;
     background: url(../img/paper-bg.jpeg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
@@ -179,10 +179,10 @@ a:focus {
     height: 70px;
     margin-top: 15px;
     padding: 7px 16px;
-    border: 2px solid #fff;
+    border: 2px solid #000;
     border-radius: 35px;
     font-size: 40px;
-    color: #fff;
+    color: #000;
     background: 0 0;
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
